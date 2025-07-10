@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Assis
 
-<!--
-**deveassis/deveassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor Full Stack com 3+ anos de experiência em **PHP** e construção de **APIs REST**  
+🚀 Explorando o ecossistema **Java**, com foco em **Spring Boot**  
+📚 Apaixonado por ensinar e compartilhar conhecimento — em breve com meu curso de **Programação no YouTube**  
+🎥 [Canal @odevassis](https://www.youtube.com/@odevassis)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+
+- **Linguagens**: PHP, Java, JavaScript, Python  
+- **Frameworks**: Laravel, Spring Boot, Express.js  
+- **Banco de Dados**: MySQL, PostgreSQL, Supabase  
+- **Outros**: Git, Docker, Linux, UML, APIs REST
+
+---
+
+## 🚧 Projetos em construção
+
+Atualmente desenvolvendo sistemas em **Java puro**, do zero — explorando cada detalhe da linguagem e aprendendo a fundo como tudo funciona por trás dos frameworks. 🧠⚙️
+
+- 🔧 **Locadora de Veículos** (Java puro)
+- 📦 **Componente/API para cadastro de produtos** (Java puro)
+
+---
+
+## 🚀 Outros Projetos
+
+- 💳 **Mandacard** — Cartão de visita digital  
+  👉 [mandacard.com.br/previdesconsultoria/deborah](https://mandacard.com.br/previdesconsultoria/deborah)
+
+- 🍔 **ProBurguer** — Sistema para gestão de hamburguerias e restaurantes  
+  👉 [proburguer.massis.tech/pedido](https://proburguer.massis.tech/pedido)
+
+- 🛠️ **HelpDesk** — Software para gestão de chamados de T.I  
+  *(Acesso privado ou em breve disponível)*
+
+---
+
+## 📫 Vamos conversar?
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-assis-2b0a481b7/)
+- [Email](mailto:deveassis@gmail.com)
+- [Instagram](https://www.instagram.com/odeveassis/)
+- [YouTube](https://www.youtube.com/@odevassis)
+
+---
+
+> _"Começar pelo puro te dá superpoderes."_ ⚡
