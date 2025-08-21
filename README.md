@@ -32,7 +32,7 @@ Atualmente desenvolvendo sistemas em **Java puro**, do zero — explorando cada 
   👉 [mandacard.com.br/previdesconsultoria/deborah](https://mandacard.com.br/previdesconsultoria/deborah)
 
 - 🍔 **ProBurguer** — Sistema para gestão de hamburguerias e restaurantes  
-  👉 [proburguer.massis.tech/pedido](https://proburguer.massis.tech/pedido)
+  👉 [proburguer.deveassis.com/pedido](https://proburguer.deveassis.com/pedido)
 
 - 🛠️ **HelpDesk** — Software para gestão de chamados de T.I  
   *(Acesso privado ou em breve disponível)*
