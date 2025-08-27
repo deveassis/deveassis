@@ -23,18 +23,23 @@
 Atualmente desenvolvendo sistemas em **Java puro**, do zero — explorando cada detalhe da linguagem e aprendendo a fundo como tudo funciona por trás dos frameworks. 🧠⚙️
 
 - 🔧 **Locadora de Veículos** (Java puro)
+- 
 - 📦 **Componente/API para cadastro de produtos** (Java puro)
--    **Plataforma de Cursos (SaaS)** (MyCourse - Plataforma WEB para criadores de Curso) (Laravel + TailwindCss + Docker + Google Cloud).
+- 
+-   **Plataforma de Cursos (SaaS)** (MyCourse - Plataforma WEB para criadores de Curso) (Laravel + TailwindCss + Docker + Google Cloud).
 
 ---
 
 ## 🚀 Outros Projetos
 
-- 💳 **Mandacard** — Cartão de visita digital  
+- 💳 **Mandacard** — Cartão de visita digital  (Laravel)
   👉 [mandacard.com.br/previdesconsultoria/deborah](https://mandacard.com.br/previdesconsultoria/deborah)
 
-- 🍔 **ProBurguer** — Sistema para gestão de hamburguerias e restaurantes  
+- 🍔 **ProBurguer** — Sistema para gestão de hamburguerias e restaurantes  (Laravel)
   👉 [proburguer.deveassis.com/pedido](https://proburguer.deveassis.com/pedido)
+
+- **API para Livrarias** - Backend construido em Python 
+  [https://github.com/deveassis/api-livrospython]
 
 - 🛠️ **HelpDesk** — Software para gestão de chamados de T.I  
   *(Acesso privado ou em breve disponível)*
