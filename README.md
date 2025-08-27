@@ -24,6 +24,7 @@ Atualmente desenvolvendo sistemas em **Java puro**, do zero — explorando cada 
 
 - 🔧 **Locadora de Veículos** (Java puro)
 - 📦 **Componente/API para cadastro de produtos** (Java puro)
+-    **Plataforma de Cursos (SaaS)** (MyCourse - Plataforma WEB para criadores de Curso) (Laravel + TailwindCss + Docker + Google Cloud).
 
 ---
 
